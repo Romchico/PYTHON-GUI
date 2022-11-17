@@ -3,6 +3,7 @@
 ![image](https://user-images.githubusercontent.com/101732278/202425402-5088f639-5c3b-4828-9ce9-2e26511e49b2.png)
 
 You can see the detailed explanation inside of the files.
+
 I used PyCharm to do this game
 
 ## Game Rules
